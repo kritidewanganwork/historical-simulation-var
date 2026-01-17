@@ -23,10 +23,10 @@ The model estimates portfolio risk using empirical return distributions and eval
 7. Classify model performance using the Basel Traffic Light framework
 
 ## Project Structure
-data/ - market price data
-src/ - risk engine modules
-notebooks/ - execution and analysis
-requirements.txt - dependencies
+- data/ - market price data
+- src/ - risk engine modules
+- notebooks/ - execution and analysis
+- requirements.txt - dependencies
 
 
 ## How to Run
